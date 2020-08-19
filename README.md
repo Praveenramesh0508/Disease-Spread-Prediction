@@ -9,6 +9,6 @@ The data used in the repository can be accessed at: https://www.drivendata.org/c
 <br>
 Contributors to the project:
 <br>
-*Venkatesh
-*Rishikesan
-*Praveen
+* Venkatesh <br>
+* Rishikesan<br>
+* Praveen<br>
