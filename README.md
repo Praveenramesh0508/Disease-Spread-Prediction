@@ -8,7 +8,7 @@ Time Series analysis and Statistical Modelling techniques were employed to forec
 The data used in the repository can be accessed at: https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread
 <br>
 Contributors to the project:
-<br>
+<br><br>
 * Venkatesh <br>
 * Rishikesan<br>
 * Praveen<br>
